@@ -1,0 +1,15 @@
+[submodule "contract"]
+	path = contract
+	url = git@github.com:OCA/contract.git
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = git@github.com:OCA/bank-statement-import.git
+[submodule "account-financial-tool"]
+	path = account-financial-tool
+	url = git@github.com:OCA/account-financial-tools.git
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
