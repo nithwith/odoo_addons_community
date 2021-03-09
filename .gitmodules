@@ -22,3 +22,6 @@
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
