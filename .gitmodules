@@ -19,3 +19,6 @@
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
