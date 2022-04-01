@@ -25,3 +25,6 @@
 [submodule "account-reconcile"]
 	path = account-reconcile
 	url = git@github.com:OCA/account-reconcile.git
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/OCA/vertical-association.git
