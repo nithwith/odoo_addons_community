@@ -1,24 +1,56 @@
 [submodule "contract"]
 	path = contract
 	url = git@github.com:OCA/contract.git
+	branch = 17.0
 [submodule "bank-statement-import"]
 	path = bank-statement-import
 	url = git@github.com:OCA/bank-statement-import.git
+	branch = 17.0
 [submodule "account-financial-tool"]
 	path = account-financial-tool
 	url = git@github.com:OCA/account-financial-tools.git
+	branch = 17.0
 [submodule "web"]
 	path = web
 	url = git@github.com:OCA/web.git
+	branch = 17.0
 [submodule "server-ux"]
 	path = server-ux
 	url = git@github.com:OCA/server-ux.git
+	branch = 17.0
 [submodule "account-reconcile"]
 	path = account-reconcile
 	url = git@github.com:OCA/account-reconcile.git
+	branch = 17.0
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 17.0
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
+	branch = 17.0
+[submodule "social"]
+	path = social
+	url = git@github.com:OCA/social.git
+	branch = 17.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 17.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 17.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 17.0
+[submodule "l10n-france"]
+	path = l10n-france
+	url = git@github.com:OCA/l10n-france.git
+	branch = 17.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 17.0
