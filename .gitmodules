@@ -58,3 +58,6 @@
 	path = vertical-association
 	url = git@github.com:OCA/vertical-association.git
 	branch = 17.0
+[submodule "spreadsheet"]
+	path = spreadsheet
+	url = git@github.com:OCA/spreadsheet.git
