@@ -54,10 +54,9 @@
 	path = partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 17.0
-[submodule "vertical-association"]
-	path = vertical-association
-	url = git@github.com:OCA/vertical-association.git
-	branch = 17.0
 [submodule "spreadsheet"]
 	path = spreadsheet
 	url = git@github.com:OCA/spreadsheet.git
+[submodule "vertical-association"]
+	path = vertical-association
+	url = git@github.com:OCA/vertical-association.git
