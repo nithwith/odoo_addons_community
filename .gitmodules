@@ -62,3 +62,15 @@
 	path = .oca/spreadsheet
 	url = git@github.com:OCA/spreadsheet.git
 	branch = 19.0
+[submodule ".oca/fr-einvoicing"]
+	path = .oca/fr-einvoicing
+	url = git@github.com:akretion/fr-einvoicing.git
+	branch = 19.0
+[submodule ".oca/community-data-files"]
+	path = .oca/community-data-files
+	url = git@github.com:oca/community-data-files.git
+	branch = 19.0
+[submodule ".oca/edi"]
+	path = .oca/edi
+	url = git@github.com:oca/edi.git
+	branch = 19.0
