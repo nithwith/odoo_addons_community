@@ -39,7 +39,7 @@ generated addon, its source repository, source commit, and branch. The script
 uses that file as the exclusive allow-list of root directories it may replace
 or remove.
 
-# Add OCA repo
+## Add OCA repo
 
 ```bash
 git submodule add -b 19.0 git@github.com:OCA/NOM_DU_REPO.git .oca/NOM_DU_REPO
